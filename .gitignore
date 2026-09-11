@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+*.log
+.claude/settings.local.json
+
+# Plaintext source — kept local only, never published.
+# index.html is the encrypted build and is the only page that ships.
+index.source.html
